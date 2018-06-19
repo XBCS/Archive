@@ -139,9 +139,28 @@ CTS公共类型系统
 	
 	Console类捕获输入和输出的方法都被定义为静态的.
 	
+#####字符串格式字符
 	
+	C/c			:	用于格式化货币, 默认以当地的货币符号为前缀.
+	D/d			:	格式化十进制数. 还可用于指定填充值得最小个数.
+	E/e			:	用户指数计数法, 无论指数常数是大写 E 还是小写 e, 都进行转换控制.
+	F/f			:	用于定点小数的格式化, 也用于指定填充值得最小个数.
+	G/g			:	代表general. 用来将一个数格式化为定点或指数格式
+	N/n			:	用户基本的数值格式化(带,)	
+	X/x			:	用于16进制格式化.
 	
+	给定的占位符值以冒号为标记:
+	Console.WriteLine("c format : {0:c}", 100);
+	Console.WriteLine("d9 format : {0:d9}", 100);
+	Console.WriteLine("f3 format : {0:f3}", 100);
+	Console.WriteLine("n format : {0:n}", 100);
 	
+	Console.WriteLine("E format : {0:E}", 100);
+	Console.WriteLine("e format : {0:e}", 100);
+	格式化字符同样适用于 string.Format();
+		
+
+
 
 
 
