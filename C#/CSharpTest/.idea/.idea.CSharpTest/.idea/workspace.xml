@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b7aacf5-0b76-4948-bffd-c171986fbe28" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSharpTest/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="380" column="9" selection-start-line="380" selection-start-column="9" selection-end-line="380" selection-end-column="9" />
+              <folding>
+                <marker date="1530075073398" expanded="false" signature="6:74" ph="..." />
+                <marker date="1530075073398" expanded="true" signature="96:10550" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="116:2507" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="191:391" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="434:1982" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="457:1181" ph="/* Users users = new Users(); ... */" />
+                <marker date="1530075073398" expanded="true" signature="1441:1534" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="1664:1939" ph="/* int? nullableData = null; ... */" />
+                <marker date="1530075073398" expanded="true" signature="2027:2501" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="2107:2148" ph="/* int x = 0; ... */" />
+                <marker date="1530075073398" expanded="true" signature="2529:2708" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="2652:2702" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="2750:3133" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="2982:3127" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="3039:3095" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="3178:3446" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="3295:3440" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="3352:3408" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="3465:10548" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="3578:3658" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="3742:4029" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="3765:3887" ph="/* p.personAge = 92; ... */" />
+                <marker date="1530075073398" expanded="true" signature="4060:4159" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="4189:4499" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="4278:4375" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="4312:4361" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="4415:4489" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="4521:4631" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="4675:5196" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="4708:4864" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="5244:5390" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="5344:5380" ph="/* 错误写法 ... */" />
+                <marker date="1530075073398" expanded="true" signature="5484:5823" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="5530:5640" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="5835:5899" ph="/* 测试 参数修饰符 ... */" />
+                <marker date="1530075073398" expanded="true" signature="5936:6097" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="6109:6176" ph="/* 2. out 输出参数修饰符. 若不给修饰为 out 的参数赋值, 则编译器报错. ... */" />
+                <marker date="1530075073398" expanded="true" signature="6227:6272" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="6379:6465" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="6475:6748" ph="/* 3. ref 引用参数修饰符, 如果希望方法可以对在调用者作用域中声明的不同数据进行操作(通常是改变他的值), 例如排序和交换例程, 就必须使用引用参数. ... */" />
+                <marker date="1530075073398" expanded="true" signature="6828:6916" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="6978:7146" ph="/* params 关键字可以把可变数量的同类型参数作为单个逻辑参数传给方法, 如果调用者传入强类型数组或以逗号分隔的项列表, 以 params 关键字标记的参数就可以被处理. ... */" />
+                <marker date="1530075073398" expanded="true" signature="7210:7506" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="7285:7341" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="7394:7456" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="7516:7835" ph="/* 调用示例 : ... */" />
+                <marker date="1530075073398" expanded="true" signature="7906:8261" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="8297:8798" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="8848:9295" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="9341:9387" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="9430:10542" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="9672:9807" ph="/* 解决方法: 使用 checked 关键字. 若发生溢出, 会得到一个运行时异常: System.OverflowException. ... */" />
+                <marker date="1530075073398" expanded="true" signature="9823:9961" ph="{...}" />
+                <marker date="1530075073398" expanded="true" signature="10002:10142" ph="{...}" />
+                <marker date="1530075073398" expanded="false" signature="10209:10415" ph="{...}" />
+                <marker date="1530075073398" expanded="false" signature="10456:10531" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>for</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CSharpTest/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../2Game/Assets/Scripts/Move.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CSharpTest/Program.cs" />
+        <option value="$PROJECT_DIR$/../2Game/Assets/Scripts/move.cs" />
+        <option value="$PROJECT_DIR$/../2Game/Assets/Scripts/Move.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="326" />
+    <option name="y" value="55" />
+    <option name="width" value="1351" />
+    <option name="height" value="944" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CSharpTest (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/CSharpTest/bin/Debug/netcoreapp2.0/CSharpTest.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CSharpTest" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CSharpTest/CSharpTest.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b7aacf5-0b76-4948-bffd-c171986fbe28" name="Default" comment="" />
+      <created>1529980990778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529980990778</updated>
+      <workItem from="1529980993341" duration="1409000" />
+      <workItem from="1530029053932" duration="3826000" />
+      <workItem from="1530068677177" duration="6802000" />
+      <workItem from="1530181925008" duration="239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12276000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="326" y="55" width="1351" height="944" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297619" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27508855" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297619" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19862491" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3297619" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CSharpTest/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6804">
+          <caret line="380" column="9" selection-start-line="380" selection-start-column="9" selection-end-line="380" selection-end-column="9" />
+          <folding>
+            <marker date="1530075073398" expanded="false" signature="6:74" ph="..." />
+            <marker date="1530075073398" expanded="true" signature="96:10550" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="116:2507" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="191:391" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="434:1982" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="457:1181" ph="/* Users users = new Users(); ... */" />
+            <marker date="1530075073398" expanded="true" signature="1441:1534" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="1664:1939" ph="/* int? nullableData = null; ... */" />
+            <marker date="1530075073398" expanded="true" signature="2027:2501" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="2107:2148" ph="/* int x = 0; ... */" />
+            <marker date="1530075073398" expanded="true" signature="2529:2708" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="2652:2702" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="2750:3133" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="2982:3127" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3039:3095" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3178:3446" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3295:3440" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3352:3408" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3465:10548" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3578:3658" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3742:4029" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3765:3887" ph="/* p.personAge = 92; ... */" />
+            <marker date="1530075073398" expanded="true" signature="4060:4159" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4189:4499" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4278:4375" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4312:4361" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4415:4489" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4521:4631" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4675:5196" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4708:4864" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="5244:5390" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="5344:5380" ph="/* 错误写法 ... */" />
+            <marker date="1530075073398" expanded="true" signature="5484:5823" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="5530:5640" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="5835:5899" ph="/* 测试 参数修饰符 ... */" />
+            <marker date="1530075073398" expanded="true" signature="5936:6097" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="6109:6176" ph="/* 2. out 输出参数修饰符. 若不给修饰为 out 的参数赋值, 则编译器报错. ... */" />
+            <marker date="1530075073398" expanded="true" signature="6227:6272" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="6379:6465" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="6475:6748" ph="/* 3. ref 引用参数修饰符, 如果希望方法可以对在调用者作用域中声明的不同数据进行操作(通常是改变他的值), 例如排序和交换例程, 就必须使用引用参数. ... */" />
+            <marker date="1530075073398" expanded="true" signature="6828:6916" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="6978:7146" ph="/* params 关键字可以把可变数量的同类型参数作为单个逻辑参数传给方法, 如果调用者传入强类型数组或以逗号分隔的项列表, 以 params 关键字标记的参数就可以被处理. ... */" />
+            <marker date="1530075073398" expanded="true" signature="7210:7506" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="7285:7341" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="7394:7456" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="7516:7835" ph="/* 调用示例 : ... */" />
+            <marker date="1530075073398" expanded="true" signature="7906:8261" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="8297:8798" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="8848:9295" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="9341:9387" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="9430:10542" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="9672:9807" ph="/* 解决方法: 使用 checked 关键字. 若发生溢出, 会得到一个运行时异常: System.OverflowException. ... */" />
+            <marker date="1530075073398" expanded="true" signature="9823:9961" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="10002:10142" ph="{...}" />
+            <marker date="1530075073398" expanded="false" signature="10209:10415" ph="{...}" />
+            <marker date="1530075073398" expanded="false" signature="10456:10531" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../2Game/Assets/Scripts/Move.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding>
+            <marker date="1530182011170" expanded="false" signature="6:78" ph="..." />
+            <marker date="1530182011170" expanded="true" signature="80:168" ph="/* 在Unity中所有集成 MonoBehaviour 的类是不可以实例化的, unity会自动创建实例, 并且调用被重载的方法 ... */" />
+            <marker date="1530182011170" expanded="true" signature="202:422" ph="{...}" />
+            <marker date="1530182011170" expanded="true" signature="281:335" ph="{...}" />
+            <marker date="1530182011170" expanded="true" signature="390:420" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSharpTest/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1568">
+          <caret line="51" column="36" lean-forward="true" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+          <folding>
+            <marker date="1530075073398" expanded="false" signature="6:74" ph="..." />
+            <marker date="1530075073398" expanded="true" signature="96:10550" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="116:2507" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="191:391" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="434:1982" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="457:1181" ph="/* Users users = new Users(); ... */" />
+            <marker date="1530075073398" expanded="true" signature="1441:1534" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="1664:1939" ph="/* int? nullableData = null; ... */" />
+            <marker date="1530075073398" expanded="true" signature="2027:2501" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="2107:2148" ph="/* int x = 0; ... */" />
+            <marker date="1530075073398" expanded="true" signature="2529:2708" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="2652:2702" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="2750:3133" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="2982:3127" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3039:3095" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3178:3446" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3295:3440" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3352:3408" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3465:10548" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3578:3658" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3742:4029" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3765:3887" ph="/* p.personAge = 92; ... */" />
+            <marker date="1530075073398" expanded="true" signature="4060:4159" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4189:4499" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4278:4375" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4312:4361" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4415:4489" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4521:4631" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4675:5196" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4708:4864" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="5244:5390" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="5344:5380" ph="/* 错误写法 ... */" />
+            <marker date="1530075073398" expanded="true" signature="5484:5823" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="5530:5640" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="5835:5899" ph="/* 测试 参数修饰符 ... */" />
+            <marker date="1530075073398" expanded="true" signature="5936:6097" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="6109:6176" ph="/* 2. out 输出参数修饰符. 若不给修饰为 out 的参数赋值, 则编译器报错. ... */" />
+            <marker date="1530075073398" expanded="true" signature="6227:6272" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="6379:6465" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="6475:6748" ph="/* 3. ref 引用参数修饰符, 如果希望方法可以对在调用者作用域中声明的不同数据进行操作(通常是改变他的值), 例如排序和交换例程, 就必须使用引用参数. ... */" />
+            <marker date="1530075073398" expanded="true" signature="6828:6916" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="6978:7146" ph="/* params 关键字可以把可变数量的同类型参数作为单个逻辑参数传给方法, 如果调用者传入强类型数组或以逗号分隔的项列表, 以 params 关键字标记的参数就可以被处理. ... */" />
+            <marker date="1530075073398" expanded="true" signature="7210:7506" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="7285:7341" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="7394:7456" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="7516:7835" ph="/* 调用示例 : ... */" />
+            <marker date="1530075073398" expanded="true" signature="7906:8261" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="8297:8798" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="8848:9295" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="9341:9387" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="9430:10542" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="9672:9807" ph="/* 解决方法: 使用 checked 关键字. 若发生溢出, 会得到一个运行时异常: System.OverflowException. ... */" />
+            <marker date="1530075073398" expanded="true" signature="9823:9961" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="10002:10142" ph="{...}" />
+            <marker date="1530075073398" expanded="false" signature="10209:10415" ph="{...}" />
+            <marker date="1530075073398" expanded="false" signature="10456:10531" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSharpTest/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <marker date="1530075073398" expanded="false" signature="6:74" ph="..." />
+            <marker date="1530075073398" expanded="true" signature="96:10550" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="116:2507" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="191:391" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="434:1982" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="457:1181" ph="/* Users users = new Users(); ... */" />
+            <marker date="1530075073398" expanded="true" signature="1441:1534" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="1664:1939" ph="/* int? nullableData = null; ... */" />
+            <marker date="1530075073398" expanded="true" signature="2027:2501" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="2107:2148" ph="/* int x = 0; ... */" />
+            <marker date="1530075073398" expanded="true" signature="2529:2708" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="2652:2702" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="2750:3133" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="2982:3127" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3039:3095" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3178:3446" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3295:3440" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3352:3408" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3465:10548" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3578:3658" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3742:4029" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3765:3887" ph="/* p.personAge = 92; ... */" />
+            <marker date="1530075073398" expanded="true" signature="4060:4159" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4189:4499" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4278:4375" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4312:4361" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4415:4489" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4521:4631" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4675:5196" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4708:4864" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="5244:5390" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="5344:5380" ph="/* 错误写法 ... */" />
+            <marker date="1530075073398" expanded="true" signature="5484:5823" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="5530:5640" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="5835:5899" ph="/* 测试 参数修饰符 ... */" />
+            <marker date="1530075073398" expanded="true" signature="5936:6097" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="6109:6176" ph="/* 2. out 输出参数修饰符. 若不给修饰为 out 的参数赋值, 则编译器报错. ... */" />
+            <marker date="1530075073398" expanded="true" signature="6227:6272" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="6379:6465" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="6475:6748" ph="/* 3. ref 引用参数修饰符, 如果希望方法可以对在调用者作用域中声明的不同数据进行操作(通常是改变他的值), 例如排序和交换例程, 就必须使用引用参数. ... */" />
+            <marker date="1530075073398" expanded="true" signature="6828:6916" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="6978:7146" ph="/* params 关键字可以把可变数量的同类型参数作为单个逻辑参数传给方法, 如果调用者传入强类型数组或以逗号分隔的项列表, 以 params 关键字标记的参数就可以被处理. ... */" />
+            <marker date="1530075073398" expanded="true" signature="7210:7506" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="7285:7341" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="7394:7456" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="7516:7835" ph="/* 调用示例 : ... */" />
+            <marker date="1530075073398" expanded="true" signature="7906:8261" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="8297:8798" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="8848:9295" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="9341:9387" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="9430:10542" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="9672:9807" ph="/* 解决方法: 使用 checked 关键字. 若发生溢出, 会得到一个运行时异常: System.OverflowException. ... */" />
+            <marker date="1530075073398" expanded="true" signature="9823:9961" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="10002:10142" ph="{...}" />
+            <marker date="1530075073398" expanded="false" signature="10209:10415" ph="{...}" />
+            <marker date="1530075073398" expanded="false" signature="10456:10531" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../2Game/Assets/Scripts/Move.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <marker date="1530182011170" expanded="false" signature="6:78" ph="..." />
+            <marker date="1530182011170" expanded="true" signature="80:168" ph="/* 在Unity中所有集成 MonoBehaviour 的类是不可以实例化的, unity会自动创建实例, 并且调用被重载的方法 ... */" />
+            <marker date="1530182011170" expanded="true" signature="202:422" ph="{...}" />
+            <marker date="1530182011170" expanded="true" signature="281:335" ph="{...}" />
+            <marker date="1530182011170" expanded="true" signature="390:420" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSharpTest/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="380" column="9" selection-start-line="380" selection-start-column="9" selection-end-line="380" selection-end-column="9" />
+          <folding>
+            <marker date="1530075073398" expanded="false" signature="6:74" ph="..." />
+            <marker date="1530075073398" expanded="true" signature="96:10550" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="116:2507" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="191:391" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="434:1982" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="457:1181" ph="/* Users users = new Users(); ... */" />
+            <marker date="1530075073398" expanded="true" signature="1441:1534" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="1664:1939" ph="/* int? nullableData = null; ... */" />
+            <marker date="1530075073398" expanded="true" signature="2027:2501" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="2107:2148" ph="/* int x = 0; ... */" />
+            <marker date="1530075073398" expanded="true" signature="2529:2708" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="2652:2702" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="2750:3133" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="2982:3127" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3039:3095" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3178:3446" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3295:3440" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3352:3408" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3465:10548" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3578:3658" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3742:4029" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="3765:3887" ph="/* p.personAge = 92; ... */" />
+            <marker date="1530075073398" expanded="true" signature="4060:4159" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4189:4499" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4278:4375" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4312:4361" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4415:4489" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4521:4631" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4675:5196" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="4708:4864" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="5244:5390" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="5344:5380" ph="/* 错误写法 ... */" />
+            <marker date="1530075073398" expanded="true" signature="5484:5823" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="5530:5640" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="5835:5899" ph="/* 测试 参数修饰符 ... */" />
+            <marker date="1530075073398" expanded="true" signature="5936:6097" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="6109:6176" ph="/* 2. out 输出参数修饰符. 若不给修饰为 out 的参数赋值, 则编译器报错. ... */" />
+            <marker date="1530075073398" expanded="true" signature="6227:6272" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="6379:6465" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="6475:6748" ph="/* 3. ref 引用参数修饰符, 如果希望方法可以对在调用者作用域中声明的不同数据进行操作(通常是改变他的值), 例如排序和交换例程, 就必须使用引用参数. ... */" />
+            <marker date="1530075073398" expanded="true" signature="6828:6916" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="6978:7146" ph="/* params 关键字可以把可变数量的同类型参数作为单个逻辑参数传给方法, 如果调用者传入强类型数组或以逗号分隔的项列表, 以 params 关键字标记的参数就可以被处理. ... */" />
+            <marker date="1530075073398" expanded="true" signature="7210:7506" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="7285:7341" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="7394:7456" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="7516:7835" ph="/* 调用示例 : ... */" />
+            <marker date="1530075073398" expanded="true" signature="7906:8261" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="8297:8798" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="8848:9295" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="9341:9387" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="9430:10542" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="9672:9807" ph="/* 解决方法: 使用 checked 关键字. 若发生溢出, 会得到一个运行时异常: System.OverflowException. ... */" />
+            <marker date="1530075073398" expanded="true" signature="9823:9961" ph="{...}" />
+            <marker date="1530075073398" expanded="true" signature="10002:10142" ph="{...}" />
+            <marker date="1530075073398" expanded="false" signature="10209:10415" ph="{...}" />
+            <marker date="1530075073398" expanded="false" signature="10456:10531" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

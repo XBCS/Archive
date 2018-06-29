@@ -1,0 +1,11 @@
+/Users/mac/Desktop/Unity/CSharpTest/CSharpTest/obj/Debug/netcoreapp2.0/CSharpTest.csprojResolveAssemblyReference.cache
+/Users/mac/Desktop/Unity/CSharpTest/CSharpTest/obj/Debug/netcoreapp2.0/CSharpTest.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Unity/CSharpTest/CSharpTest/obj/Debug/netcoreapp2.0/CSharpTest.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Unity/CSharpTest/CSharpTest/obj/Debug/netcoreapp2.0/CSharpTest.AssemblyInfo.cs
+/Users/mac/Desktop/Unity/CSharpTest/CSharpTest/bin/Debug/netcoreapp2.0/CSharpTest.deps.json
+/Users/mac/Desktop/Unity/CSharpTest/CSharpTest/bin/Debug/netcoreapp2.0/CSharpTest.runtimeconfig.json
+/Users/mac/Desktop/Unity/CSharpTest/CSharpTest/bin/Debug/netcoreapp2.0/CSharpTest.runtimeconfig.dev.json
+/Users/mac/Desktop/Unity/CSharpTest/CSharpTest/bin/Debug/netcoreapp2.0/CSharpTest.dll
+/Users/mac/Desktop/Unity/CSharpTest/CSharpTest/bin/Debug/netcoreapp2.0/CSharpTest.pdb
+/Users/mac/Desktop/Unity/CSharpTest/CSharpTest/obj/Debug/netcoreapp2.0/CSharpTest.dll
+/Users/mac/Desktop/Unity/CSharpTest/CSharpTest/obj/Debug/netcoreapp2.0/CSharpTest.pdb

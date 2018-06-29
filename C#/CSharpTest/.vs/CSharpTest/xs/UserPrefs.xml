@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{3D78F086-8B83-405A-A24B-F1EA20C470C2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpTest/Program.cs">
+    <Files>
+      <File FileName="CSharpTest/Program.cs" Line="26" Column="37" />
+      <File FileName="CSharpTest/Employee.cs" Line="25" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CSharpTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
