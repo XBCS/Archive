@@ -690,11 +690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Desktop/Unity/CSharpTest/CSharpTest/CSharpTest.csproj",
+      "projectUniqueName": "/Users/mac/Desktop/Meta/Archive/C#/CSharpTest/CSharpTest/CSharpTest.csproj",
       "projectName": "CSharpTest",
-      "projectPath": "/Users/mac/Desktop/Unity/CSharpTest/CSharpTest/CSharpTest.csproj",
+      "projectPath": "/Users/mac/Desktop/Meta/Archive/C#/CSharpTest/CSharpTest/CSharpTest.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/Desktop/Unity/CSharpTest/CSharpTest/obj",
+      "outputPath": "/Users/mac/Desktop/Meta/Archive/C#/CSharpTest/CSharpTest/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
