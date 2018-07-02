@@ -611,9 +611,13 @@ CTS公共类型系统
 	如果一个类被定义为静态, 就不能使用new关键字来创建, 并且只能包含用static关键字标记的成员或字段. 只包含静态功能的类或结构通常称为工具类.
 	
 	
-	
-	
-		
+#####快速创建属性
+
+	格式:
+	public string Name {get; set;}
+	public int Speed {get; set;}
+			
+
 	
 	
 	
