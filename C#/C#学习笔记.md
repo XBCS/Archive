@@ -617,7 +617,8 @@ CTS公共类型系统
 	public string Name {get; set;}
 	public int Speed {get; set;}
 			
-
+	Visual Studio提供了prop代码段, 输入prop并按下两次Tab会自动创建自动属性.
+	
 	
 	
 	

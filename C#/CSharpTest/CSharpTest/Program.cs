@@ -63,7 +63,14 @@ namespace CSharpTest
 //            ManClass man = new ManClass();
 //            ManClass.houJie = "没有";
 
-            Console.ReadLine();
+        public object MyProperty
+        {
+            get;
+            set;
+        }
+
+
+        Console.ReadLine();
         }
 
 
